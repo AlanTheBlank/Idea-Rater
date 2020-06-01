@@ -1,6 +1,5 @@
 import random
 
-
 def ideas():
 	satisfied = False
 
