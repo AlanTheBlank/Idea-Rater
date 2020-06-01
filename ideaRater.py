@@ -8,7 +8,9 @@ def ideas():
 		"meh",
 		"Maybe.....? nah",
 		"nah",
-		"Are you even trying"
+		"Are you even trying",
+		"That's gonna upset people on Twitter",
+		"I think there's already a patent for that"
 		]
 	while not satisfied:
 		input("Insert your idea: ")
